@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kristoffer/Documents/Programmering/Testing/Test_git/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/Test.dir/main.cpp.o -c /home/kristoffer/Documents/Programmering/Testing/Test_git/main.cpp",
+  "file": "/home/kristoffer/Documents/Programmering/Testing/Test_git/main.cpp"
+}
+]
