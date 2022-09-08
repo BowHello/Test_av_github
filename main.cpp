@@ -1,4 +1,6 @@
 #include <iostream>
+#include <vector>
+#include <algorithm>
 
 int main(int, char**) 
 {
@@ -6,5 +8,11 @@ int main(int, char**)
     std::cout << "fu" << std::endl;
     std::cout << "yo mama " << std::endl;
 
-    return 0;
-}
+
+    for(;;)
+    {
+        
+    }
+
+    return 0; 
+    }
